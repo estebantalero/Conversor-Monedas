@@ -1,6 +1,5 @@
-# Conversor de Divisas a Pesos Mexicanos
+# Conversor de Divisas a Peso Colombiano
 Este es un programa Java para convertir diversas divisas a pesos mexicanos (MXN). Utiliza la API de `exchangerate-api` para obtener las tasas de cambio actuales.******
-
 
 
 ## Funcionalidades
