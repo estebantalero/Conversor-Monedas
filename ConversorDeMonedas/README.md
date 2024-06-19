@@ -4,15 +4,13 @@ Este es un programa Java para convertir diversas divisas a pesos mexicanos (MXN)
 
 ## Funcionalidades
 
-- Convertir de Dolares a Pesos Méxicanos
-- Convertir de Pesos Méxicanos a Dolares
-- Convertir de Euros a Pesos Méxicanos
-- Convertir de Pesos Méxicanos a Euros
-- Convertir de Euros a Pesos Méxicanos
-- Convertir de Libras Esterlinas a Pesos Méxicanos
-- Convertir de Yenes a Pesos Méxicanos
-- Convertir de Dolar Australiano a Pesos Méxicanos
-- Convertir de Dolar Canadiense a Pesos Méxicanos
+1.Peso Colombiano a Euro
+2.Euro a Peso Colombiano
+3.Dollar a Peso Colombiano
+4.Peso Colombiano a Dollar
+5.Peso Argentino a Peso Colombiano
+6.Peso Colombiano a Peso Argentino
+7.Conversion Moneda Diferente
 
 ## Requisitos
 
