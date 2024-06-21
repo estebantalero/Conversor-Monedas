@@ -4,13 +4,13 @@ Este es un programa Java para convertir diversas divisas a pesos mexicanos (MXN)
 
 ## Funcionalidades
 
-1.Peso Colombiano a Euro
-2.Euro a Peso Colombiano
-3.Dollar a Peso Colombiano
-4.Peso Colombiano a Dollar
-5.Peso Argentino a Peso Colombiano
-6.Peso Colombiano a Peso Argentino
-7.Conversion Moneda Diferente
+- 1.Peso Colombiano a Euro
+- 2.Euro a Peso Colombiano
+- 3.Dollar a Peso Colombiano
+- 4.Peso Colombiano a Dollar
+- 5.Peso Argentino a Peso Colombiano
+-6.Peso Colombiano a Peso Argentino
+- 7.Conversion Moneda Diferente
 
 ## Requisitos
 
