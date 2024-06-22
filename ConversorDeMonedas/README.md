@@ -14,16 +14,10 @@ Este es un programa Java para convertir diversas divisas a pesos mexicanos (MXN)
 
 ## Requisitos
 
-- Java Development Kit (JDK) 8 o superior
+- Java Development Kit (JDK) 17 o superior
 - Internet para obtener las tasas de cambio actuales
+- contar con la licencia de la API `exchangerate-api` activas 
 
-## Uso
-
-1. Ejecuta el programa:
-
-    ```sh
-    java -cp "bin:lib/gson-2.11.0.jar" Inicio
-    ```
 
 2. Menú y opciones
 
