@@ -1,5 +1,5 @@
 # Conversor de Divisas a Peso Colombiano
-Este es un programa Java para convertir diversas divisas a pesos Colombianos (COP) propuesto por [Alura Latam](https://www.aluracursos.com/). Asiendo uso de la API de ["Exchange Rate API"](https://www.exchangerate-api.com/)  Para obtener la tasa de cambio en tiempo de real de las divisas seleccionadas .******
+Este es un programa Java para convertir diversas divisas a pesos Colombianos (COP) propuesto por [Alura Latam](https://www.aluracursos.com/). Asiendo uso de la API de ["Exchange Rate API"](https://www.exchangerate-api.com/)  Para obtener la tasa de cambio en tiempo de real de las divisas seleccionadas.
 
 
 ## Funcionalidades
