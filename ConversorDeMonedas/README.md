@@ -1,16 +1,16 @@
 # Conversor de Divisas a Peso Colombiano
-Este es un programa Java para convertir diversas divisas a pesos mexicanos (MXN). Utiliza la API de `exchangerate-api` para obtener las tasas de cambio actuales.******
+Este es un programa Java para convertir diversas divisas a pesos Colombianos (COP) propuesto por [Alura Latam](https://www.aluracursos.com/). Asiendo uso de la API de ["Exchange Rate API"]((https://www.exchangerate-api.com/))  Para obtener la tasa de cambio en tiempo de real de las divisas seleccionadas .******
 
 
 ## Funcionalidades
 
-- 1.Peso Colombiano a Euro
-- 2.Euro a Peso Colombiano
-- 3.Dollar a Peso Colombiano
-- 4.Peso Colombiano a Dollar
-- 5.Peso Argentino a Peso Colombiano
-- 6.Peso Colombiano a Peso Argentino
-- 7.Conversion Moneda Diferente
+- 1. Peso Colombiano a Euro
+- 2. Euro a Peso Colombiano
+- 3. Dollar a Peso Colombiano
+- 4. Peso Colombiano a Dollar
+- 5. Peso Argentino a Peso Colombiano
+- 6. Peso Colombiano a Peso Argentino
+- 7. Conversion Moneda Diferente
 
 ## Requisitos
 
@@ -19,7 +19,7 @@ Este es un programa Java para convertir diversas divisas a pesos mexicanos (MXN)
 - contar con la licencia de la API `exchangerate-api` activas 
 
 
-2. Menú y opciones
+## Menú y opciones
 
 - El sistema cuenta con un menú principal con 8 opciones, 6 opciones de conversión de moneda Colombia una opción de conversión de diferentes monedas y una opción de salida.
 
