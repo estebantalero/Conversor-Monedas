@@ -62,3 +62,10 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactar al autor del repositorio.
 
+
+![ConversionDiferenteMoneda](https://github.com/estebantalero/Conversor-Monedas/assets/89372486/1bb76119-369d-4afc-8bd5-68e5171410ae)
+![Menu](https://github.com/estebantalero/Conversor-Monedas/assets/89372486/c71e427e-fcf4-4b05-8e3b-b614f9530f04)
+![PruebaNoNumerica](https://github.com/estebantalero/Conversor-Monedas/assets/89372486/de59396f-a80a-4776-9ccf-1b62efce2f06)
+![PruebaOpncionNoValida](https://github.com/estebantalero/Conversor-Monedas/assets/89372486/91f1efa6-2de8-4ba1-be01-c6115f462354)
+![Resultados](https://github.com/estebantalero/Conversor-Monedas/assets/89372486/3843511a-fa37-441c-a850-8a1036e5ba8b)
+
